@@ -7,3 +7,5 @@
 テスト用のIRは「pass\GlobalVariableToLocal\test\FuncLib.ll」にあります。
 
 土曜は休日出勤で疲れたので、日曜のお勉強はこれぐらいで。。(>_<)
+
+あー、ちなみに疲れたのでデバッグもしてません。ご指摘welcome！
