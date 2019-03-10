@@ -1,0 +1,2 @@
+# LLVMTest_GlobalVariableToLocal
+グローバル変数のローカル変数化
